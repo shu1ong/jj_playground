@@ -1,5 +1,7 @@
 # JJ workflow demo
 
 - Step 1: create stacked commits
-- Step 2: rewrite history safely
-- Step 3: push with bookmarks
+- step 2: this is a test
+- setp 3: dafsdfasdfasd
+- step 4: fdasfsdflkas
+- dsfasdfasdfasdf
