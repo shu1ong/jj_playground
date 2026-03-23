@@ -2,3 +2,5 @@
 
 - Immutable commits with powerful rewrite
 - Bookmarks instead of local branches
+- fdfasdfasd
+- fasdfasdf
